@@ -13,5 +13,5 @@ The code is in the Jupyter Notebook, it includes:
   <li>Source of the challenge</li>
   <li>Description of the table and it's columns</li>
   <li>The code itself written in POSTGRES</li>
-  <li>The answer and final table <li>
-  </ul>
+  <li>The answer and final table </li>
+</ul>
