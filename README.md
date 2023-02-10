@@ -6,7 +6,7 @@ My solution included :
   <li>UNION's</li>
   <li>JOIN's</li>
   <li>Filtering</li>
-<ul>
+</ul>
  
 The code is in the Jupyter Notebook, it includes:
 <ul>
@@ -14,3 +14,4 @@ The code is in the Jupyter Notebook, it includes:
   <li>Description of the table and it's columns</li>
   <li>The code itself written in POSTGRES</li>
   <li>The answer and final table <li>
+  </ul>
